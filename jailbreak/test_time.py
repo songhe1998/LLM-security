@@ -1,6 +1,6 @@
 import openai
 import time
-api_key = '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'
+api_key = ''
 openai.api_key = api_key
 
 start = time.time()

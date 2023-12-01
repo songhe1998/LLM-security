@@ -2,8 +2,7 @@ import json
 import openai
 import time
 import signal
-#api_key = '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'
-api_key = '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'
+api_key = ''
 openai.api_key = api_key
 
 def handler(signum, frame):

@@ -1,6 +1,6 @@
 import openai
 import time
-api_key = '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'
+api_key = ''
 openai.api_key = api_key
 
 # message = ''
